@@ -20,9 +20,9 @@ Hi there! I'm **Simone Pecorari**, a passionate **Mechanical Engineer** with a b
 ## ⚖️ Skills
 
 ### Programming
-- **Python**
-- **C**
-- IDEs: Visual Studio Code, STM32CubeIDE, CodeBlocks, MATLAB
+- [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+- [![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+- IDEs: [![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/), [![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-003B75?style=for-the-badge)](https://www.st.com/en/development-tools/stm32cubeide.html), [![Code::Blocks](https://img.shields.io/badge/Code--Blocks-000000?style=for-the-badge)](http://www.codeblocks.org/), [![MATLAB](https://img.shields.io/badge/MATLAB-FF7F00?style=for-the-badge&logo=mathworks&logoColor=white)](https://www.mathworks.com/products/matlab.html)
 
 ### CAD/CAE Software
 - [![Rhinoceros](https://img.shields.io/badge/Rhinoceros-02569B?style=for-the-badge)](https://www.rhino3d.com/)
@@ -31,11 +31,11 @@ Hi there! I'm **Simone Pecorari**, a passionate **Mechanical Engineer** with a b
 - [![Adams Multibody](https://img.shields.io/badge/Adams--Multibody-34A853?style=for-the-badge)](https://www.mscsoftware.com/product/adams)
 
 ### Soft Skills
-- 🔗 Team Collaboration
-- 🧠 Problem Solving
-- 🎨 Creativity
-- 🌌 Critical Thinking
-- 💡 Leadership
+- 🤝 Team Collaboration
+- 🧩 Problem Solving
+- 🎭 Creativity
+- 🌟 Critical Thinking
+- 🎯 Leadership
 
 ---
 
