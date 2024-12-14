@@ -41,7 +41,7 @@ Hi there! I'm **Simone Pecorari**, a passionate **Mechanical Engineer** with a b
 
 ## 🔄 Hobbies & Interests
 
-- ⛸ Karate
+- 🥋 Karate
 - 🕺 Dance
 - 📚 Reading
 - 🌍 Traveling
