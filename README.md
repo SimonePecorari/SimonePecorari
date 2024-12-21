@@ -25,8 +25,12 @@ Hi there! I'm **Simone Pecorari**, a passionate **Mechanical Engineer** with a b
 - IDEs: [![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/), [![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-003B75?style=for-the-badge)](https://www.st.com/en/development-tools/stm32cubeide.html), [![Code::Blocks](https://img.shields.io/badge/Code--Blocks-000000?style=for-the-badge)](http://www.codeblocks.org/), [![MATLAB](https://img.shields.io/badge/MATLAB-FF7F00?style=for-the-badge&logo=mathworks&logoColor=white)](https://www.mathworks.com/products/matlab.html)
 
 ### CAD/CAE Software
-- [![Rhinoceros](https://img.shields.io/badge/Rhinoceros-02569B?style=for-the-badge)](https://www.rhino3d.com/)
-- [![Solid Edge](https://img.shields.io/badge/Solid--Edge-FFCC00?style=for-the-badge)](https://solidedge.siemens.com/)
+- <a href="https://www.rhino3d.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Rhinoceros-%23FF0000?style=for-the-badge&logo=rhinoceros&logoColor=white" alt="Rhinoceros">
+  </a>
+- <a href="https://solidedge.siemens.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Solid--Edge-00CCCC?style=for-the-badge&logo=siemens&logoColor=white" alt="Solid Edge">
+  </a>
 - [![Siemens NX](https://img.shields.io/badge/Siemens--NX-0078D7?style=for-the-badge)](https://www.plm.automation.siemens.com/global/en/products/nx/)
 - [![Adams Multibody](https://img.shields.io/badge/Adams--Multibody-34A853?style=for-the-badge)](https://www.mscsoftware.com/product/adams)
 
